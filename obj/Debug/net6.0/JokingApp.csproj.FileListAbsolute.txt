@@ -271,3 +271,8 @@ C:\Users\kamil\Documents\Projekty\JokingApp\obj\Debug\net6.0\refint\JokingApp.dl
 C:\Users\kamil\Documents\Projekty\JokingApp\obj\Debug\net6.0\JokingApp.pdb
 C:\Users\kamil\Documents\Projekty\JokingApp\obj\Debug\net6.0\JokingApp.genruntimeconfig.cache
 C:\Users\kamil\Documents\Projekty\JokingApp\obj\Debug\net6.0\ref\JokingApp.dll
+C:\Users\kamil\Documents\Projekty\JokingApp\obj\Debug\net6.0\staticwebassets\msbuild.JokingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kamil\Documents\Projekty\JokingApp\obj\Debug\net6.0\staticwebassets\msbuild.build.JokingApp.props
+C:\Users\kamil\Documents\Projekty\JokingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JokingApp.props
+C:\Users\kamil\Documents\Projekty\JokingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JokingApp.props
+C:\Users\kamil\Documents\Projekty\JokingApp\obj\Debug\net6.0\staticwebassets.pack.json
