@@ -27,9 +27,14 @@
             </td>
             <td>
                     
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> 
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+              @*<td >
+                    @Html.ActionLink("Szczegóły", "Details", new { id=item.ReceiptID}, new { @class = "btn btn-info"})
+                    @Html.ActionLink("Edytuj", "Edit", new { id=item.ReceiptID  }, new { @class = "btn btn-warning"})
+                    @Html.ActionLink("Usuń", "Delete", new {  id=item.ReceiptID }, new { @class = "btn btn-danger"})
+            </td>   *@
             </td>
         </tr>
 }
