@@ -5,4 +5,27 @@
 <div class="text-center">
     <h1 class="display-4">Jokes Application</h1>
     <p>Aplikacja do żartów.</p>
+                <Menu Margin="0,0,404,29" Height="18" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="41">
+                <MenuItem Header="Level"
+                          
+                         HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                          RenderOptions.EdgeMode="Aliased"
+                     Background="{StaticResource BackgroundColor}"
+                     Foreground="{StaticResource TextColor}"
+                     FontFamily="{StaticResource MainFont}" Height="20" Width="46">
+                    <MenuItem Header="Easy" Click="LevelEasy_Click"
+                                      Background="{StaticResource BackgroundColor}"
+        Foreground="{StaticResource TextColor}"
+        FontFamily="{StaticResource MainFont}"></MenuItem>
+                    <MenuItem Header="Medium" Click="LevelMedium_Click"
+                                      Background="{StaticResource BackgroundColor}"
+        Foreground="{StaticResource TextColor}"
+        FontFamily="{StaticResource MainFont}"></MenuItem>
+                    <MenuItem Header="Hard" Click="LevelHard_Click"
+                                      Background="{StaticResource BackgroundColor}"
+        Foreground="{StaticResource TextColor}"
+        FontFamily="{StaticResource MainFont}"></MenuItem>
+                </MenuItem>
+            </Menu>
 </div>
