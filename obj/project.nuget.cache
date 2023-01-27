@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zZe7roUs7QZ9uvY1arBy1wlMWUwonltyBaN6xQhLZIfzksWLx8DzBAeOBvEZOoGfkhXrRplg0ef44fj7o0c7DQ==",
+  "dgSpecHash": "C17fqbOkV2aM7FhtvLqgiJrpND1ZVF9FJ33/Zm97mkSdqL+I21VPutZLMpqN1LmQ4mxq1+6lGg5t139l+GOZLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kamil\\Documents\\Projekty\\JokingApp\\JokingApp.csproj",
   "expectedPackageFiles": [
@@ -182,11 +182,7 @@
     "C:\\Users\\kamil\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\kamil\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\kamil\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
-    "C:\\Users\\kamil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+    "C:\\Users\\kamil\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
